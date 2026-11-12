@@ -3,7 +3,7 @@
 # Week 2 — Footprinting & Network Scanning
 
 **Networkwalks Cybersecurity Internship · Batch B084**  
-**Prepared by:** `[YOUR NAME]`  
+**Prepared by:** Muhammed Yaseen  
 **Date of practical:** 12 November 2026  
 **Environment:** Kali Linux (Oracle VirtualBox)  
 **Modules:** W2-PM1 · W2-PM5 · W2-PM-FINAL
@@ -184,4 +184,4 @@ Zenmap was a different kind of exercise. It showed me how a ping scan can find a
 
 ---
 
-*Networkwalks Cybersecurity Internship · Week 2 · Batch B084 · `[YOUR NAME]`*
+*Networkwalks Cybersecurity Internship · Week 2 · Batch B084 · `Muhammed Yaseen`*
