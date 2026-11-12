@@ -3,10 +3,10 @@
 # Week 2 — Footprinting & Network Scanning
 
 **Networkwalks Cybersecurity Internship · Batch B084**  
-**Prepared by:** Muhammed Yaseen  
-**Date of practical:** 12 November 2026  
-**Environment:** Kali Linux (Oracle VirtualBox)  
-**Modules:** W2-PM1 · W2-PM5 · W2-PM-FINAL
+**Prepared by:** 'Muhammed Yaseen'  
+**Date of practical:** '12 November 2026' 
+**Environment:** 'Kali Linux (Oracle VirtualBox)'  
+**Modules:** 'W2-PM1 · W2-PM5 · W2-PM-FINAL'
 
 > **Scope note:** This is a record of my Week 2 learning activities, not a full penetration test or a claim that the target has been compromised. W2-PM1 used the domain named in the assignment (`networkwalks.com`); W2-PM5 used my local VirtualBox subnet (`10.0.0.0/24`). I did not attempt exploitation or verify vulnerabilities. Authorization should be confirmed with the internship coordinator; I have not claimed written permission in this report.
 
